@@ -157,7 +157,7 @@ export default  class myMap extends React.Component {
 
     render() {
         return (
-            <div id="main" style={{width: 400, height: 400}}>
+            <div id="main" style={{width: 1000, height: 1000}}>
             </div>
         )
     }
